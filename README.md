@@ -54,7 +54,7 @@
 - [Example: "He/His", "She/Her", "They/Them", etc.]
 
 ## ⚡ Fun fact:
-- [A fun or interesting fact about you. Example: "I'm a huge fan of video games and I create my own levels!"] gggg
+- [A fun or interesting fact about you. Example: "I'm a huge fan of video games and I create my own levels!"]
 
 ###
 
