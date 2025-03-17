@@ -20,13 +20,41 @@
 
 <h1 align="center">hey there 👋</h1>
 
-###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+# Hi, I'm Aymeric 👋
+
+## 🔭 I’m currently working on...
+- [A brief description of what you're currently working on. For example: "Building a task management app with React and Node.js."]
+- [Another project or app, for example: "Improving my personal website to make it more interactive and responsive."]
+
+## 🌱 I’m currently learning...
+- [List the technologies you’re currently learning. Example: "React.js, Node.js, SQL"]
+- [Other skills, for example: "Mobile development with Flutter", "Algorithms and data structures."]
+
+## 👯 I’m looking to collaborate on...
+- [The types of projects you’d like to collaborate on. For example: "Open-source projects", "Web applications with a solid backend."]
+- [Other areas: "I’m also interested in creating video games with Unity."]
+
+## 🤔 I’m looking for help with...
+- [If you need help with a particular project, mention it here. Example: "Optimizing performance in a React app."]
+- [Other areas where you’re seeking help: "Fixing a tricky JavaScript bug", "Improving my understanding of application architecture."]
+
+## 💬 Ask me about...
+- [Topics or technologies you're proficient in and can help with. Example: "Frontend development with React", "Agile project management", "Tips and tricks for coding in Python."]
+
+## 📫 How to reach me:
+- [Your email address or how to contact you. Example: "Email: aymeric.monier0@outlook.com"]
+- [Or your professional social networks like LinkedIn: "LinkedIn: https://www.linkedin.com/in/x2z591"]
+
+## 😄 Pronouns:
+- [Example: "He/His", "She/Her", "They/Them", etc.]
+
+## ⚡ Fun fact:
+- [A fun or interesting fact about you. Example: "I'm a huge fan of video games and I create my own levels!"]
 
 ###
 
