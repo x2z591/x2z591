@@ -113,7 +113,3 @@ Generates a snake game from a github user contributions graph
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/x2z591/x2z591/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/x2z591/x2z591/output/pacman-contribution-graph.svg">
 </picture>
-
-_Generated with [x2z591/pacman-contribution-graph] (https://x2z591.github.io/pacman-contribution-graph/)
-
-###
