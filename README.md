@@ -21,7 +21,7 @@
 
 
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://gist.github.com/moonheekim0118/bcbbb9c2fd8c477027617a67e0ec812f#file-octocat-gif"  />
 </div>
 
 ###
