@@ -6,8 +6,6 @@
 ![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
 ![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
 
-Generates a snake game from a github user contributions graph
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -108,8 +106,6 @@ Generates a snake game from a github user contributions graph
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/x2z591/x2z591/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/x2z591/x2z591/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/x2z591/x2z591/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/x2z591/x2z591/output/snake.svg" alt="Snake animation" />
+
+###
