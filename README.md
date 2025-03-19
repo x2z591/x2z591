@@ -19,8 +19,6 @@
   />
 </picture>
 
-
-
 ###
 
 <div align="center">
