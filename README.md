@@ -35,15 +35,6 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
-
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-# Hi, I'm Aymeric 👋
-
 <h1 align="center">Salut 👋, je suis Aymeric</h1>
 <h3 align="center">Un développeur frontend passionné originaire de France</h3>
 
